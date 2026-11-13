@@ -5,4 +5,9 @@ need to work together
 
 We are learning git 
 
+
 we are 3 members in the team
+
+
+how to develop a code 
+
